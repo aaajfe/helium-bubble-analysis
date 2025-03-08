@@ -1,4 +1,6 @@
-# Helium Bubble Analysis
+作者：大林
+
+# Helium Bubble Analysis 
 
 这是一个用于分析 TEM 图像中氦气泡的程序。
 
